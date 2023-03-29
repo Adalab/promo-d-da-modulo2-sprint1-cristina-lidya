@@ -1,0 +1,11 @@
+,Unnamed: 0,Order ID,Category,Sales,Quantity,Discount
+0,0,1,Apparels,16.448,2,0.2
+1,1,2,Electronics,65.0,87,0.2
+2,2,3,Cosmetics,272.736,3,0.2
+3,3,4,Apparels,3.54,2,0.8
+4,4,5,Electronics,19.536,3,0.2
+5,5,6,Cosmetics,19.44,3,0.0
+6,6,7,Grocery,12.78,3,0.0
+7,7,8,Grocery,2573.82,9,0.0
+8,8,9,Apparels,609.98,2,0.0
+9,9,10,Cosmetics,300.0,10,0.5
